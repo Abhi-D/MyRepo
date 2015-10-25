@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Fri Oct 23 20:25:56 IST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0150-9532-f6b4-000000962448 
+on database directory M:\Softwares\eclipse softwares\eclipse-standard-kepler-SR2-win32\eclipse\workspace\MySpringJDBC1\G DriveAbhishek DuttaMy CoursesSpring Certified DeveloperPracticesDerby  with class loader sun.misc.Launcher$AppClassLoader@e2f2a 
+Loaded from file:/M:/G%20Drive/Abhishek%20Dutta/My%20Courses/Spring%20Certified%20Developer/derby-10.8.2.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=M:\Softwares\eclipse softwares\eclipse-standard-kepler-SR2-win32\eclipse\workspace\MySpringJDBC1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

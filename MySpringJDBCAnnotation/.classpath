@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring311"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/javaee-api-7.0.jar"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/javaee-web-api-6.0.jar"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/jboss-j2ee-3.2.1.jar"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/derby-10.8.2.2.jar"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/hsqldb-1.7.2.2.jar"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/h2-1.3.164.jar"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/asm-all-4.2.jar"/>
+	<classpathentry kind="lib" path="M:/G Drive/Abhishek Dutta/My Courses/Spring Certified Developer/cglib-3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
